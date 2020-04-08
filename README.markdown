@@ -9,7 +9,10 @@ This is a collection of miscellaneous 3D models for KiCad. Currently, this is my
 
 3D Model | Description
 -------- | -----------
+QingPu_WQP-PJ302M.wrl | a QingPu WQP-PJ302M horizontal mono switched 3.5mm jack 
 RCA-Phono_CUI-Devices_RCJ-02X_Vertical.wrl | a CUI Devices RCJ-02 series vertical RCA phono connector
+
+For an easy preview of what they look like, look in the images folder.
 
 Please feel free to use them as you'd like in your own projects. If they help you, I'm glad.
 
